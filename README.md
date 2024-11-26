@@ -5,9 +5,9 @@ Neptun kód : GVEGE9
 
 Ez egy BlackJack játék amelynél a játékos kap kártyákat és választhat, hogy kér még e 1-10 ig kártyát vagy megáll. Az osztó csak egy random számot kap 17 és 26 között.
 
-CLass : HPBlackJack
+Class : HPBlackJack
 Modul : tkinter, random
-függvények : __init__
+Függvények : __init__
             hp_draw_card
             hp_stand
             hp_restart_game
